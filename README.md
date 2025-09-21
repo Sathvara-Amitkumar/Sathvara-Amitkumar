@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Sathvara-Amitkumar<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning AI/ML
+👋 Hi, I’m @Sathvara-Amitkumar<br>👀 I’m interested in Data Science<br>🌱 I’m currently learning LLM's
 
 
 ## 🌐 Socials:
