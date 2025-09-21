@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> 💫 About Me </h1>
+# 💫 About Me 
 👋 Hi, I’m **Amitkumar Sathvara**  
 🎯 Passionate about **Data Science & Machine Learning**  
 📚 Currently exploring **Large Language Models (LLMs)** and their applications  
