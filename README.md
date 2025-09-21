@@ -28,9 +28,17 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sathvara-Amitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Sathvara-Amitkumar&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvara-Amitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sathvara-Amitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Sathvara-Amitkumar&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvara-Amitkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
