@@ -52,7 +52,7 @@ class Amitkumar:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
@@ -67,8 +67,6 @@ class Amitkumar:
 **🕸️ Web Scraping**
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23092E20.svg?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-%2360A839.svg?style=for-the-badge&logo=scrapy&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -82,10 +80,10 @@ class Amitkumar:
 
 ### 🔧 Version Control & Tools
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
@@ -129,7 +127,6 @@ class Amitkumar:
 │                                                             │
 │  🤝  Open to Data Science & AI project collaborations      │
 │                                                             │
-│  📦  Contributing to open-source ML projects               │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -156,8 +153,3 @@ class Amitkumar:
 
 </div>
 
----
-
-<div align="center">
-  <sub>✦ Crafted with passion for Data, AI & Problem Solving ✦</sub>
-</div>
