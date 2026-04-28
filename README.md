@@ -29,7 +29,7 @@ class Amitkumar:
     currently  = "Exploring Large Language Models & AI Applications"
     passion    = "Building things that combine data, AI & problem-solving"
     open_to    = "Collaborations on Data Science & AI projects 🤝"
-    fun_fact   = "I debug with coffee ☕ and fix bugs with more coffee"
+    fun_fact   = "I debug with chai ☕ and fix bugs with more chai!"
 ```
 
 ---
@@ -83,7 +83,7 @@ class Amitkumar:
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=pycharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Py%20Charm-0de070?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
@@ -130,18 +130,6 @@ class Amitkumar:
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Sathvara-Amitkumar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=6)
-
-</div>
-
----
 
 <div align="center">
 
