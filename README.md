@@ -90,22 +90,6 @@ class Amitkumar:
 ## ◈ GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sathvara-Amitkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Sathvara-Amitkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvara-Amitkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvara-Amitkumar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
