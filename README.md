@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## ◈ About Me
 
 ```python
@@ -34,8 +32,6 @@ class Amitkumar:
     fun_fact    = "I debug with chai ☕ and fix bugs with more chai!"
 ```
 
----
-
 ## ◈ Connect With Me
 
 <div align="center">
@@ -46,16 +42,12 @@ class Amitkumar:
 
 </div>
 
----
-
 ## ◈ Tech Stack
 
 ### 🐍 Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
 
 ### 🤖 Machine Learning
 
@@ -64,8 +56,6 @@ class Amitkumar:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
----
-
 ### 🧠 Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -73,14 +63,10 @@ class Amitkumar:
 
 > ANN · Perceptron · Forward & Backpropagation · ReLU · Sigmoid · Softmax · Categorical Crossentropy · Gradient Descent · Adam Optimizer
 
----
-
 ### 🕸️ Web Scraping
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23092E20.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-
----
 
 ### 🌐 Backend & APIs
 
@@ -89,14 +75,10 @@ class Amitkumar:
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
 
 ### 🔧 Tools & Platforms
 
@@ -106,8 +88,6 @@ class Amitkumar:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0de070?style=for-the-badge&logo=pycharm&logoColor=white)
 
----
-
 ## ◈ Featured Projects
 
 | 🚀 Project | 🛠️ Stack | 🎯 Highlight |
@@ -116,16 +96,12 @@ class Amitkumar:
 | **Iris Flower Classification (ANN)** | TensorFlow, Keras, NumPy, Streamlit | 96.67% test accuracy |
 | **FastAPI Product Management System** | FastAPI, Pydantic, REST API, Streamlit | Full CRUD + live API interaction |
 
----
-
 ## ◈ Certifications
 
 ```
 🏅  Python Essentials 1         —  Cisco Networking Academy (2025)
 🏅  OCI AI Foundations Associate —  Oracle Cloud (2025)
 ```
-
----
 
 ## ◈ GitHub Stats
 
@@ -136,13 +112,11 @@ class Amitkumar:
 
 </div>
 
----
-
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Sathvara-Amitkumar&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <br/>
-*"Data is the new oil — and I'm here to refine it."* ⚡
+"Data is the new oil — and I'm here to refine it." ⚡
 
 </div>
