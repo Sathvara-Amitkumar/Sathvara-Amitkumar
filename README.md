@@ -2,10 +2,10 @@
 
 ```
 ░█████╗░███╗░░░███╗██╗████████╗██╗░░██╗██╗░░██╗███╗░░░███╗░█████╗░██████╗░
-██╔══██╗████╗░████║██║╚══██╔══╝██║░██╔╝██║░██╔╝████╗░████║██╔══██╗██╔══██╗
-███████║██╔████╔██║██║░░░██║░░░█████═╝░█████═╝░██╔████╔██║███████║██████╔╝
-██╔══██║██║╚██╔╝██║██║░░░██║░░░██╔═██╗░██╔═██╗░██║╚██╔╝██║██╔══██║██╔══██╗
-██║░░██║██║░╚═╝░██║██║░░░██║░░░██║░╚██╗██║░╚██╗██║░╚═╝░██║██║░░██║██║░░██║
+██╔══██╗████╗░████║██║╚══██╔══╝██║░██╔╝██║░ ██╔████╗░████║██╔══██╗██╔══██╗
+███████║██╔████╔██║██║░░░██║░░░████═╝░ ██   ██═██╔████╔██║███████║██████╔╝
+██╔══██║██║╚██╔╝██║██║░░░██║░░░██╔═██╗░██╔═ ██╗██║╚██╔╝██║██╔══██║██╔══██╗
+██║░░██║██║░╚═╝░██║██║░░░██║░░░██║░╚██╗███████╗██║░╚═╝░██║██║░░██║██║░░██║
 ╚═╝░░╚═╝╚═╝░░░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 ```
 
@@ -134,44 +134,18 @@ class Amitkumar:
 
 <div align="center">
 <br/>
-
-<img src="https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&border_radius=11" alt="GitHub Stats Card" />
-
-<br/><br/>
-
-<img src="https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&border_radius=13.5&size=compact&hide=issues" alt="GitHub Stats Card" />
+    
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=5&size=compact&hide=issues%2Cprs)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvara-Amitkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathvara-Amitkumar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=sathvara-amitkumar&theme=ayu&days=30&width=500&height=200)
 
 </div>
-
----
-
-## ◈ Current Goals
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🌱  Learning LLMs & building AI-driven applications           │
-│                                                                 │
-│  🧠  Deepening expertise in Deep Learning & Neural Networks    │
-│                                                                 │
-│  📊  Strengthening data visualization & ML modeling skills     │
-│                                                                 │
-│  🕸️  Mastering web scraping for real-world data pipelines     │
-│                                                                 │
-│  🤝  Open to Data Science & AI project collaborations          │
-│                                                                 │
-│  📦  Contributing to open-source ML projects                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -182,9 +156,5 @@ class Amitkumar:
 <br/>
 
 *"Data is the new oil — and I'm here to refine it."* ⚡
-
-<br/>
-
-<sub>✦ Crafted with passion for Data, AI & Problem Solving ✦</sub>
 
 </div>
