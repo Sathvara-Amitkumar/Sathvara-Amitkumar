@@ -100,6 +100,8 @@ class Amitkumar:
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0de070?style=for-the-badge&logo=pycharm&logoColor=white)
 
+---
+
 ## ◈ Featured Projects
 
 | 🚀 Project | 🛠️ Stack | 🎯 Highlight |
@@ -119,8 +121,8 @@ class Amitkumar:
 
 <div align="center">
 <br/>
-    
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=6&size=compact&hide=issues%2Cprs)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
+
+<img src="https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=6&size=compact&hide=issues%2Cprs" alt="GitHub Stats Card" />    <img src="https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=horizontal_list" alt="Top Languages" />
 
 </div>
 
