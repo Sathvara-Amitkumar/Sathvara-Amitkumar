@@ -54,7 +54,6 @@ class Amitkumar:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -64,7 +63,6 @@ class Amitkumar:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
@@ -87,7 +85,6 @@ class Amitkumar:
 ### 🌐 Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -135,14 +132,7 @@ class Amitkumar:
 <div align="center">
 <br/>
     
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=5&size=compact&hide=issues%2Cprs)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
-
-<!-- <br/><br/>
- -->
-
-<br/><br/>
-
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=sathvara-amitkumar&theme=ayu&days=30&width=500&height=200)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=6&size=compact&hide=issues%2Cprs)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
 
 </div>
 
