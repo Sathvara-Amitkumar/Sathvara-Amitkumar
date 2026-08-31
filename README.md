@@ -135,11 +135,10 @@ class Amitkumar:
 <div align="center">
 <br/>
     
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=5&size=compact&hide=issues%2Cprs)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=5&size=compact&hide=issues%2Cprs)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
 
-<br/><br/>
-
-![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=donut)
+<!-- <br/><br/>
+ -->
 
 <br/><br/>
 
@@ -154,7 +153,6 @@ class Amitkumar:
 [![](https://visitcount.itsvg.in/api?id=Sathvara-Amitkumar&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <br/>
-
 *"Data is the new oil — and I'm here to refine it."* ⚡
 
 </div>
