@@ -49,12 +49,16 @@ class Amitkumar:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+---
+
 ### 🤖 Machine Learning
     
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
 
 ### 🧠 Deep Learning
 
@@ -63,10 +67,14 @@ class Amitkumar:
 
 > ANN · Perceptron · Forward & Backpropagation · ReLU · Sigmoid · Softmax · Categorical Crossentropy · Gradient Descent · Adam Optimizer>
 
+---
+
 ### 🕸️ Web Scraping
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23092E20.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
 
 ### 🌐 Backend & APIs
 
@@ -75,10 +83,14 @@ class Amitkumar:
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
+
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### 🔧 Tools & Platforms
 
