@@ -49,19 +49,27 @@ class Amitkumar:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+--
+
 ### 🤖 Machine Learning
 
+<div>
+    
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+</div>
 
 ### 🧠 Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-> ANN · Perceptron · Forward & Backpropagation · ReLU · Sigmoid · Softmax · Categorical Crossentropy · Gradient Descent · Adam Optimizer
+> ANN · Perceptron · Forward & Backpropagation · ReLU · Sigmoid · Softmax · Categorical Crossentropy · Gradient Descent · Adam Optimizer>
+
+-
 
 ### 🕸️ Web Scraping
 
