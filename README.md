@@ -81,7 +81,6 @@ class Amitkumar:
 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23092E20.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
@@ -109,7 +108,6 @@ class Amitkumar:
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0de070?style=for-the-badge&logo=pycharm&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=for-the-badge&logo=odoo&logoColor=white)
 
 ---
 
@@ -137,11 +135,11 @@ class Amitkumar:
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sathvara-Amitkumar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img src="https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&border_radius=11" alt="GitHub Stats Card" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sathvara-Amitkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&border_radius=13.5&size=compact&hide=issues" alt="GitHub Stats Card" />
 
 <br/><br/>
 
