@@ -122,7 +122,7 @@ class Amitkumar:
 <div align="center">
 <br/>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sathvara-amitkumar&theme=ayu&hide_title=true&border_radius=6&size=compact&hide=issues%2Cprs)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=horizontal_list)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Sathvara-Amitkumar&theme=ayu&hide_title=true&border_radius=6&size=compact&hide=prs%2Cissues%2Ctrend%2Cavg%2Cfollowers%2Cgrade%2Ccontributions%2Cactive_day)    ![Top Languages](https://ghstats.dev/api/langs?username=sathvara-amitkumar&theme=ayu&max_langs=6&layout=horizontal_list)
 
 </div>
 
